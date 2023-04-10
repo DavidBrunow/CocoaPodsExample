@@ -1,0 +1,16 @@
+PODS:
+  - "Artsy+UIFonts (3.3.4)"
+
+DEPENDENCIES:
+  - "Artsy+UIFonts"
+
+SPEC REPOS:
+  https://github.com/DavidBrunow/Specs.git:
+    - "Artsy+UIFonts"
+
+SPEC CHECKSUMS:
+  "Artsy+UIFonts": fac8471db4f99726a3e44f33a4e4291b4416f692
+
+PODFILE CHECKSUM: c5089bcb5cf5ba7135f8f5a90e6caa5b581da44c
+
+COCOAPODS: 1.12.0
